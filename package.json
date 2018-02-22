@@ -1,0 +1,21 @@
+{
+  "name": "weixin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "koa": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.4.0",
+    "koa-socket": "^4.4.0",
+    "koa-static": "^4.0.2",
+    "raw-body": "^2.3.2",
+    "xml2js": "^0.4.19"
+  }
+}
